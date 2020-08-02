@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
+/Numeric Matrix Processor/task/out/
+/Numeric Matrix Processor/task/out/production/classes/
+/Numeric Matrix Processor/task/out/test/classes/
+/Problems/Alternating Fibonacci numbers/out/
+/Problems/Alternating Fibonacci numbers/out/production/classes/
+/Problems/Fix the method to print strings in the reverse order/out/
+/Problems/Fix the method to print strings in the reverse order/out/production/classes/
+/Problems/K-combination/out/
+/Problems/K-combination/out/production/classes/
+/Problems/N-th power/out/
+/Problems/N-th power/out/production/classes/
+/Problems/Number of decompositions/out/
+/Problems/Number of decompositions/out/production/classes/
