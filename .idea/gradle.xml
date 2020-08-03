@@ -12,11 +12,31 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Numeric Matrix Processor/task" />
+            <option value="$PROJECT_DIR$/Problems/A new rockstar game" />
             <option value="$PROJECT_DIR$/Problems/Alternating Fibonacci numbers" />
+            <option value="$PROJECT_DIR$/Problems/Breakfast Decorator" />
+            <option value="$PROJECT_DIR$/Problems/Builder" />
+            <option value="$PROJECT_DIR$/Problems/Builder (1)" />
+            <option value="$PROJECT_DIR$/Problems/Cinema Facade" />
+            <option value="$PROJECT_DIR$/Problems/Coffee Decorator" />
+            <option value="$PROJECT_DIR$/Problems/Complete a class" />
+            <option value="$PROJECT_DIR$/Problems/Complete the eager singleton" />
+            <option value="$PROJECT_DIR$/Problems/Computer Facade" />
+            <option value="$PROJECT_DIR$/Problems/Fix me" />
             <option value="$PROJECT_DIR$/Problems/Fix the method to print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Problems/Forex Broker" />
+            <option value="$PROJECT_DIR$/Problems/Geek Builder" />
             <option value="$PROJECT_DIR$/Problems/K-combination" />
             <option value="$PROJECT_DIR$/Problems/N-th power" />
             <option value="$PROJECT_DIR$/Problems/Number of decompositions" />
+            <option value="$PROJECT_DIR$/Problems/Pizza Decorator" />
+            <option value="$PROJECT_DIR$/Problems/Remote Controller" />
+            <option value="$PROJECT_DIR$/Problems/Robot Builder" />
+            <option value="$PROJECT_DIR$/Problems/Rockstar games" />
+            <option value="$PROJECT_DIR$/Problems/Smart house" />
+            <option value="$PROJECT_DIR$/Problems/Stock Broker" />
+            <option value="$PROJECT_DIR$/Problems/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Problems/Undo command" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
